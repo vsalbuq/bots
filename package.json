@@ -1,0 +1,19 @@
+{
+  "name": "bots",
+  "version": "1.0.0",
+  "description": "Just for fun.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsalbuq/bots.git"
+  },
+  "author": "Vinicius Albuquerque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsalbuq/bots/issues"
+  },
+  "homepage": "https://github.com/vsalbuq/bots#readme"
+}
