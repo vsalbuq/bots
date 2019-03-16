@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vsalbuq/bots/issues"
   },
-  "homepage": "https://github.com/vsalbuq/bots#readme"
+  "homepage": "https://github.com/vsalbuq/bots#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
