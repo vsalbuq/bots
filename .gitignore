@@ -62,3 +62,6 @@ typings/
 
 #Credentials
 credentials/*.json
+
+#Database
+content.json
